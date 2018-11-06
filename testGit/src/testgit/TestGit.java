@@ -12,5 +12,14 @@ public class TestGit {
         System.out.println("你好,世界");
         System.out.println("你好,世界");
         System.out.println("你好,世界");
+
+    }
+
+    public  void  testAdd(int a,int b){
+
+        int i = a + b;
+
+        System.out.println(i);
+
     }
 }
