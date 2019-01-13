@@ -32,4 +32,12 @@ public class TestGit {
         System.out.println(c);
 
     }
+
+    /*添加一个修改的方法*/
+    public void testUpdate(int c){
+        int d = 199;
+        int c = d;
+        System.out.println(d);
+
+    }
 }
