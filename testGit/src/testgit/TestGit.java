@@ -22,4 +22,14 @@ public class TestGit {
         System.out.println(i);
 
     }
+
+
+    /*添加一个方法*/
+    public void testDelete(int a, int b){
+        int a = 20;
+        int b = 12;
+        int c = a-b;
+        System.out.println(c);
+
+    }
 }
